@@ -1,0 +1,10 @@
+1. Queue using stack
+2. Stack using queue
+3. Implement two stacks in an array (expand it to k stacks in an array)
+4. Create stack that supports getMin() in O(1) time and O(1) extra space
+5. Prefix to Infix conversion (using stack). Then pre to post. And a couple more
+6. Check for balanced parentheses in an expression
+7. Next Greater Element. For instance, for  [4, 5, 2, 25] output should be 5, 25, 25, -1
+8. Sort stack using recursion
+9. Delete middle element of stack
+10. Check if a queue can sorted into another queue using Stack
